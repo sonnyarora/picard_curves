@@ -1,0 +1,10 @@
+main.m
+endomorphism_ring.m
+arithmetic.m
+cm_type.m
+addition_law
+{
+	arita_addition.m
+	addition.m
+	scalarproduct.m
+}
